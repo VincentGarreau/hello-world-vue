@@ -23,7 +23,7 @@ export default {
     }
   },
   mounted () {
-    console.log('App.vue')
+    console.log('App.vue'),
   },
 }
 </script>
